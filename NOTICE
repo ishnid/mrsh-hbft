@@ -1,0 +1,22 @@
+This repository contains source code for an adaptation of MRSH-v2 using
+Hierarchical Bloom Filter Trees.
+
+If you are using this code in connection with academic publication, we would
+be grateful if you would cite the following related works:
+
+The paper this code-based was originally written for, to examine the
+effectiveness of the approach:
+   Lillis, D., Breitinger, F. & Scanlon, M., 2017. Expediting MRSH-v2
+   Approximate Matching with Hierarchical Bloom Filter Trees. In 9th EAI
+   International Conference on Digital Forensics and Cyber Crime (ICDF2C 2017).
+   Prague, Czechia.
+
+The paper including the theoretical underpinning of this approach:
+   Breitinger, F., Rathgeb, C. & Baier, H., 2014. An Efficient Similarity
+   Digests Database Lookup - A Logarithmic Divide & Conquer Approach. Journal of
+   Digital Forensics, Security and Law, 9(2), pp.155–166.
+
+The paper introducing the original MRSH-v2 algorithm:
+   Breitinger, F. & Baier, H., 2012. Similarity preserving hashing: Eligible
+   properties and a new algorithm mrsh-v2. In International Conference on
+   Digital Forensics and Cyber Crime. Springer, pp. 167–182.
