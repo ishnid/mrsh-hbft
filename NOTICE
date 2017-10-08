@@ -4,7 +4,7 @@ Hierarchical Bloom Filter Trees.
 If you are using this code in connection with academic publication, we would
 be grateful if you would cite the following related works:
 
-The paper this code-based was originally written for, to examine the
+The paper this code base was originally written for, to examine the
 effectiveness of the approach:
    Lillis, D., Breitinger, F. & Scanlon, M., 2017. Expediting MRSH-v2
    Approximate Matching with Hierarchical Bloom Filter Trees. In 9th EAI
